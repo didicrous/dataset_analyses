@@ -1,2 +1,2 @@
 # dataset_analyses
-a series of projects using different machine learning techniques to make business recommendations for various industries
+Each of the notebooks in this repository uses machine learning and statistical techniques to answer questions about its respective dataset. After the analysis is performed, a business recommendation is provided.
